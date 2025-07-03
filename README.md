@@ -12,7 +12,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=lichyot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="display: inline-block; margin-right: 10px;"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=lichyot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="display: inline-block; margin-right: 10px;"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichyot&layout=compact&langs_count=7&theme=tokyonight" style="display: inline-block;"/>
 </div>
 
