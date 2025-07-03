@@ -13,7 +13,7 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api?username=lichyot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="display: inline-block; margin-right: 10px;"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichyot&layout=compact&langs_count=7&theme=tokyonight" style="display: inline-block;"/>
+  <img height="200em" width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichyot&layout=compact&langs_count=7&theme=tokyonight" style="display: inline-block;"/>
 </div>
 
 ## 🚀 Sobre mim
