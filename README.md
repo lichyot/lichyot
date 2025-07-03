@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <img height="180em" width="600em" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Quality+Assurance+Engineer;Automation+Testing+Specialist;Robot+Framework+%7C+Cypress+Expert;Always+learning+something+new!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Quality+Assurance+Engineer;Automation+Testing+Specialist;Robot+Framework+%7C+Cypress+Expert;Always+learning+something+new!" alt="Typing SVG" />
 </div>
 
 ## 📊 GitHub Stats
