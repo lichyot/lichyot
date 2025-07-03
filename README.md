@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Olá! Eu sou o Douglas 👋</h1>
 
-<!--
-**lichyot/lichyot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i>Quality Assurance | Testes Automatizados | APIs | Robot Framework | Cypress</i>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Atualmente atuando como QA, com foco em:
+- 🔁 Testes automatizados (Web, API)
+- 🤖 Robot Framework, Cypress, Playwright
+- ☁️ Integração contínua com GitHub Actions / Azure Pipelines
+- 🧪 Testes manuais exploratórios e funcionais
+
+📂 Meus projetos favoritos:
+- 🔗 [Testes de API com Robot Framework](https://github.com/lichyot/Teste-API-Robot-Framework)
+- 🔗 [Template com CI/CD usando Robot](https://github.com/lichyot/robot-actions)
+- 🔗 [BDD com Gherkin](https://github.com/lichyot/gherkin-m8)
+
+🚀 Sempre aprendendo e evoluindo com foco em qualidade e entrega de valor contínua!
+
+---
+
+📫 Me encontre também:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-ferreira-ti)
+
