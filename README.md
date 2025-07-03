@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Douglas 👋</h1>
 
 <p align="center">
-  <i>Quality Assurance | Testes Automatizados | APIs | Robot Framework | Cypress</i>
+  <i>Quality Assurance | Testes Automatizados | Robot Framework | Cypress</i>
 </p>
 
 ---
@@ -12,9 +12,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=lichyot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="display: inline-block; margin-right: 10px;"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichyot&layout=compact&langs_count=7&theme=tokyonight" style="display: inline-block;"/>
+  <img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api?username=lichyot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="display: inline-block; margin-right: 10px;"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichyot&layout=compact&langs_count=7&theme=tokyonight" style="display: inline-block;"/>
 </div>
 
 ## 🚀 Sobre mim
