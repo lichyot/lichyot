@@ -7,13 +7,13 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Quality+Assurance+Engineer;Automation+Testing+Specialist;Robot+Framework+%7C+Cypress+Expert;Always+learning+something+new!" alt="Typing SVG" />
+  <img height="180em" width="400em" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Quality+Assurance+Engineer;Automation+Testing+Specialist;Robot+Framework+%7C+Cypress+Expert;Always+learning+something+new!" alt="Typing SVG" />
 </div>
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="200em" width="600em" src="https://github-readme-stats.vercel.app/api?username=lichyot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="display: inline-block; margin-right: 10px;"/>
-  <img height="200em" width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichyot&layout=compact&langs_count=7&theme=tokyonight" style="display: inline-block;"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=lichyot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="display: inline-block; margin-right: 10px;"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichyot&layout=compact&langs_count=7&theme=tokyonight" style="display: inline-block;"/>
 </div>
 
 ## 🚀 Sobre mim
