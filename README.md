@@ -6,7 +6,7 @@
 
 ---
 
-# Olá! 👋 Eu sou o lichyot
+# Olá! 👋 Eu sou o Douglas
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Quality+Assurance+Engineer;Automation+Testing+Specialist;Robot+Framework+%7C+Cypress+Expert;Always+learning+something+new!" alt="Typing SVG" />
 </div>
