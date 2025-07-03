@@ -12,17 +12,17 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lichyot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichyot&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=lichyot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichyot&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## 🚀 Sobre mim
 💼 **Quality Assurance Engineer** com foco em automação de testes e qualidade de software
 
 🔍 **Especialista em:**
-- 🤖 **Automação de Testes** (Web, API, Mobile)
-- 🧪 **Frameworks**: Robot Framework, Cypress, Appium
-- ☁️ **CI/CD**: GitHub Actions, Azure Pipelines
+- 🤖 **Automação de Testes** (API, Mobile, Web)
+- 🧪 **Frameworks**: Robot Framework, Cypress
+- ☁️ **CI/CD**: GitHub Actions
 
 ## 🛠️ Tecnologias & Ferramentas
 
